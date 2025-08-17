@@ -3,6 +3,9 @@ import router from "./routes/product.routes.js";
 
 const app = express()
 
-app.use('/api/products' , router)
+app.set('view engine','ejs')
+app.use(express.static('public'))
+
+app.use(router)
 
 export default app;

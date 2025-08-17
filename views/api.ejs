@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/css/api.css">
+</head>
+
+<body>
+    <%- include('./partials/navbar',host) %>
+        <div class="container">
+            <h1>Resources</h1>
+            <div class="list">
+                <div class="list-items">
+                    <div>
+                        <h2>All products</h2>
+                        <p>List of all available products</p>
+                    </div>
+                    <span onclick="window.location.href='/api/products'"><%= host %>/api/products</span>
+                </div>
+                <div class="list-items">
+                    <div>
+                        <h2>Product by Limit</h2>
+                        <p>List of products with a specific limit</p>
+                    </div>
+                    <span onclick="window.location.href='/api/products?limit=5'"><%= host %>/api/products?limit=5</span>
+                </div>
+                <div class="list-items">
+                    <div>
+                        <h2>Products by Brand</h2>
+                        <p>List of products of a specific brand</p>
+                    </div>
+                    <span onclick="window.location.href='/api/products?brand=samsung'"><%= host %>/api/products?brand=samsung</span>
+                </div>
+            </div>
+        </div>
+</body>
+
+</html>

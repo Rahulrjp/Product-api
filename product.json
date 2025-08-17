@@ -6,6 +6,28 @@
         "brand": "xiaomi",
         "model": "note 11 pro+ 5g",
         "price": 24999,
+        "tags": [
+            "5g",
+            "6GB",
+            "smartphone",
+            "Amoled",
+            "Snapdragon 695",
+            "108MP"
+        ],
+        "features": {
+            "storage": "128GB",
+            "ram": "6GB",
+            "camera": "108MP",
+            "display": "Full HD+ Amoled Display",
+            "processor": "Qualcomm snapdragon 695 5G",
+            "brightness": "1300 nits",
+            "os": "Hyper OS",
+            "extra": [
+                "360 Hz TSR",
+                "Multi language support",
+                "Triple camera"
+            ]
+        },
         "description": "The latest Snapdragon 695 5G SoC ensures superior performance and gaming experience. The device is future-ready with support for 7 5G bands. The Liquidcool technology ensures that your phone remains cool even while running intensive tasks The 6.67 inch FHD+ 120Hz AMOLED display along with 360Hz touch sampling and 1200 nits peak brightness, brings out immersive picture quality and ensures smoother and faster response. Display is protected by Corning Gorilla Glass 5 The 67W fast charger that comes in the box, powers the massive 5000mAh battery to 50% in less than 15 mins which gives you enough power to last the entire day The triple camera setup with flagship 108MP HM2 sensor, 8MP Ultra-Wide sensor and 2MP Macro sensor ensures flawless photography. The 108MP camera delivers images with crystal clear clarity even when zoomed in. The three cameras work together to bring out the best images in all scenarios The dual stereo speakers setup brings out loud and balanced audio from the device, making the gaming, multimedia experience extremely captivating Alexa Hands-Free capable: Download the Alexa app to use Alexa hands-free. Play music, make calls, hear news, open apps, navigate, and more, all using just your voice, while on-the-go",
         "images": [
             "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/j/l/e/-original-imagcqrqw5rwhguk.jpeg?q=70&crop=false",
@@ -21,6 +43,26 @@
         "brand": "apple",
         "model": "iphone 16",
         "price": 79900,
+        "tags": [
+            "5g",
+            "HDR",
+            "48MP",
+            "Dynamic island",
+            "A18 chip"
+        ],
+        "features": {
+            "storage": "128GB",
+            "camera": "48MP",
+            "display": "HDR Display",
+            "processor": "A18 Bionic chipset",
+            "brightness": "2000 nits",
+            "os": "ios 18",
+            "extra": [
+                "Dynamic Island",
+                "Multi language support",
+                "Apple intelligence"
+            ]
+        },
         "description": "iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48 MP Fusion camera. Five vibrant colours. And A18 chip , Dynamic Island, HDR Display, True Tone, Wide Colour (P3), Haptic Touch, Contrast Ratio: 2,000,000:1 (Typical), 1,000 nits Max Brightness (Typical), 1,600 nits Peak Brightness (HDR), 2,000 nits Peak Brightness (Outdoor), 1 nits Minimum Brightness, Fingerprint Resistant Oleophobic Coating, Support for Display of Multiple Languages and Characters Simultaneously. Dynamic Island, HDR Display, True Tone, Wide Colour (P3), Haptic Touch, Contrast Ratio: 2,000,000:1 (Typical), 1,000 nits Max Brightness (Typical), 1,600 nits Peak Brightness (HDR), 2,000 nits Peak Brightness (Outdoor), 1 nits Minimum Brightness, Fingerprint Resistant Oleophobic Coating, Support for Display of Multiple Languages and Characters Simultaneously",
         "images": [
             "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/q/n/s/-original-imah4jyfrgsbebg9.jpeg?q=70&crop=false",
@@ -37,6 +79,15 @@
         "brand": "samsung",
         "model": "galaxy fit3",
         "price": 9999,
+        "tags": [
+            "smartwatch",
+            "Amoled",
+            "wearable"
+        ],
+        "features": {
+            "display": "Amoled",
+            "brightness": "450 nits"
+        },
         "description": "The Samsung Galaxy Fit 3 Smartwatch is a holistic lifestyle companion designed to elevate your well-being, seamlessly integrating into your daily routines and adventures. Embrace a new era of wearable technology where style, functionality, and innovation converge to empower you on your journey to a healthier and more connected life. The Galaxy Fit 3 – redefining what it means to wear intelligence on your wrist.",
         "images": [
             "https://rukminim2.flixcart.com/image/128/128/xif0q/smartwatch/5/s/k/-original-imagybqyg6fktjfq.jpeg?q=70&crop=false",
@@ -52,7 +103,33 @@
         "type": "laptop",
         "brand": "acer",
         "model": "aspire lite",
-        "price": 9999,
+        "price": 42999,
+        "tags": [
+            "notebook",
+            "16GB",
+            "windows 11",
+            "H-Series",
+            "slim",
+            "intel",
+            "12th gen"
+        ],
+        "features": {
+            "storage": "1TB",
+            "ram": "16GB",
+            "display": "Full HD Ips Display",
+            "processor": "Intel core i5 12450H",
+            "brightness": "2000 nits",
+            "os": "Windows 11 Home",
+            "extra": [
+                "Pre-installed MS Office",
+                "H-Series Processor",
+                "Camera privacy shutter",
+                "LPDDR5 Ram",
+                "180 hinge design",
+                "15.6 inch display",
+                "thin bazzels"
+            ]
+        },
         "description": "This laptop, powered by an H-series i5 processor, delivers excellent performance for multitasking and heavier tasks. The display is sharp and vibrant, enhancing both work and entertainment. A nice surprise was the pre-installed Microsoft Office, even though it wasn't listed in the details. While the sound is average, overall, the laptop offers solid value for its price. Perfect for students",
         "images": [
             "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/a/a/o/-original-imah7tknwg7brmfv.jpeg?q=70&crop=false",
@@ -64,5 +141,179 @@
             "https://rukminim2.flixcart.com/image/128/128/xif0q/computer/q/3/s/-original-imah7tkn8tncsxtm.jpeg?q=70&crop=false"
         ],
         "discount": 40
+    },
+    {
+        "name": "realme P3x 5G",
+        "title": "realme P3x 5G (Midnight Blue, 128 GB)  (6 GB RAM)",
+        "type": "mobile",
+        "brand": "realme",
+        "model": "P3x 5G ",
+        "price": 16999,
+        "discount": 23,
+        "tags": [
+            "smartphone",
+            "Midnight Blue"
+        ],
+        "features": {
+            "storage": "128GB",
+            "ram": "6GB",
+            "camera": "50MP",
+            "display": "6.72 inch Full HD Display",
+            "battery": "6000 mAh",
+            "processor": "Mediatek dimensity 6400",
+            "os": "Color OS 15.0 (Based on Android 15)"
+        },
+        "description": "Never worry about battery life again! With a 6000 mAh battery and 45 W charging, this phone powers up in no time, keeping you connected and ready to go whenever you need it. With IP69 dust and water resistance, your phone is ready for anything! No more worrying about dust, spills, or rain—your device stays protected even in tough conditions. Built to last, it keeps you connected without the stress of damage. Stay worry-free and focus on what matters!",
+        "images": [
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/j/n/1/-original-imah9gtmya9qhqse.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/7/w/z/-original-imah9tvs4ufkrbxk.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/m/d/b/-original-imah9gtm2gh57ttq.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/m/g/c/-original-imah9ggdxjnetta5.jpeg?q=70&crop=false"
+        ]
+    },
+    {
+        "name": "Motorola Edge 50 Fusion",
+        "title": "Motorola Edge 50 Fusion (Hot Pink, 256 GB)  (12 GB RAM)",
+        "type": "mobile",
+        "brand": "Motorola",
+        "model": "Edge 50 Fusion",
+        "price": 27999,
+        "discount": 25,
+        "tags": [
+            "5g",
+            "A14",
+            "144Hz"
+        ],
+        "features": {
+            "storage": "256GB",
+            "ram": "12GB",
+            "camera": "50MP + 13MP | 32MP",
+            "battery": "5000 mAh",
+            "display": "144 Hz 6.7 inch Full HD+ pOLED Display",
+            "processor": "Qualcomm snapdragon 7s Gen 2",
+            "os": "Android 14"
+        },
+        "description": "Motorola edge 50 fusion is designed to capture its best shots at night with advanced features. The 50 MP main camera uses a powerful Sony LYTIA LYT-700C sensor to capture moments ultrafast with low noise even in dark environments. Who thought Night photography could get faster, accurate and focused. An advanced all-pixel focus technology on the Motorola Edge 50 Fusion elevates night photography by making it 32x more focused. While the Ultra Pixel sensor captures more light with larger 2.0µm pixels, the OIS automatically smoothens involuntary hand motion to give you a shake free video experience.",
+        "images": [
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/i/k/l/edge-50-fusion-pb300001in-motorola-original-imahywzpfd2jh9ep.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/z/4/z/-original-imahyxj4zs583ste.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/o/z/w/-original-imahyxj4st5kzgrd.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/i/q/h/edge-50-fusion-pb300001in-motorola-original-imahywzpw4uhhbdq.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/u/l/t/edge-50-fusion-pb300001in-motorola-original-imahywzpgjxuz7ch.jpeg?q=70&crop=false"
+        ]
+    },
+    {
+        "name": "realme 15 5G",
+        "title": "realme 15 5G (Velvet Green, 128 GB)  (8 GB RAM)",
+        "type": "mobile",
+        "brand": "realme",
+        "model": "15 5G",
+        "price": 29999,
+        "discount": 13,
+        "tags": [],
+        "features": {
+            "storage": "128GB",
+            "ram": "8GB",
+            "camera": "50MP + 8MP | 50MP Front",
+            "battery": "7000",
+            "display": "6.8 inch Full HD+ Amoled Display",
+            "processor": "Mediatek dimensity 7300+ 5G",
+            "os": "Android 15"
+        },
+        "description": "realme 15 5G features a powerful triple camera setup: a 50 MP Sony IMX882 AI main camera, an 8 MP wide-angle lens, and a 50 MP AI selfie camera. Designed to capture every moment with stunning clarity and detail, it ensures vibrant portraits, wide shots, and perfect selfies, delivering the best results in every shot. realme 15 5G features the slimmest 7000 mAh battery with 80 W fast charging, delivering 0–100% charge in just 61 minutes. It offers 9.8 hours of gaming, 22.4 hours of YouTube, and 83.1 hours of Spotify playback. With just 5 minutes of charge, you can enjoy 1.4 hours of gaming or 3.3 hours of YouTube.",
+        "images": [
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/z/h/h/-original-imahekyxuzz6eaqx.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/m/9/n/-original-imahekyxxgy5fr6n.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/x/c/g/-original-imahekyxfbczhrfr.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/k/c/l/-original-imahekyxjvghdbha.jpeg?q=70&crop=false"
+        ]
+    },
+    {
+        "name": "Samsung galaxy S24 Ultra 5g",
+        "title": "Samsung Galaxy S24 Ultra 5G (Titanium Black, 256 GB)  (12 GB RAM)",
+        "type": "mobile",
+        "brand": "Samsung",
+        "model": "S24 Ultra 5G",
+        "price": 134999,
+        "discount": 39,
+        "tags": [],
+        "features": {
+            "storage": "256GB",
+            "ram": "12GB",
+            "camera": "200MP + 50MP + 12MP + 10MP | 12MP Front Camera",
+            "battery": "5000 mAh",
+            "display": "6.8 inch Quad HD+ Display",
+            "processor": "Qualcomm snapdragon 8 Gen 3",
+            "os": "Android 14"
+        },
+        "description": "Behold the Samsung Galaxy S24 Ultra smartphone, an exceptional amalgamation of incredible technology and superior sophistication. Whether you're typing up a storm or jotting something down, Note Assist makes a long story short. New AI-powered editing options let you get the photo you want, like relocating objects and intelligently filling in the space they left behind. With a durable shield of titanium built right into the frame and better scratch resistance with Corning Gorilla Armor, your IP68 water and dust-resistant Galaxy S24 Ultra is ready for adventure. Write, tap, and navigate with the precision your fingers wish they had on the new, flat display.",
+        "images": [
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/y/e/8/-original-imahyvntxfrpuw6g.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/o/s/c/-original-imagx9pfuguwhfhe.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/t/q/k/-original-imagx9pff4gxepfy.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/r/f/y/-original-imagx9pf7dd5ny7n.jpeg?q=70&crop=false"
+        ]
+    },
+    {
+        "name": "Samsung Galaxy Book4",
+        "title": "Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) NP750XGJ-KG1IN / NP750XGJ-LG1IN Thin and Light Laptop  (15.6 Inch, Gray, 1.55 Kg, With MS Office)",
+        "type": "laptop",
+        "brand": "Samsung",
+        "model": "Galaxy Book4",
+        "price": 78189,
+        "discount": 33,
+        "tags": [
+            "Thin and light",
+            "notebook",
+            "metal",
+            "MS Office",
+            "Fingerprint sensor"
+        ],
+        "features": {
+            "storage": "512 GB",
+            "ram": "8 GB",
+            "battery": "45W Power Adapter",
+            "display": "15.6 inch Full HD LCD Display",
+            "processor": "Intel core i3 1335U 13th Generation",
+            "os": "Windows 11 Home"
+        },
+        "description": "With a 13th-generation Intel Core CPU for fluid productivity, up to 1 TB of SSD storage, and Intel Xe graphics for entertainment, the Samsung Galaxy Book4 laptop is a great device. Its stylish aluminium body weighs only 1.55 kg, and its 39.62 cm (15.6) Full HD display is part of it. There are ports for RJ45, HDMI, microSD, USB-A, and USB-C connectivity. Ensured productivity on the move, the little charger is compatible with other Samsung Galaxy smartphones. Make use of Dolby Atmos speakers for immersive audio. The seamless device integration provided by the Galaxy ecosystem boosts productivity and creativity. Utilise the excellent camera on your Galaxy phone for video chats, and use File Explorer to access phone files. Old photographs are given new life by AI-powered Photo Remaster, and cross-device video editing is possible with Samsung Studio. Quick Share and Phone Link make it simple to share files and view them on your phone from your PC, while Multi Control increases productivity by allowing you to navigate between devices.",
+        "images": [
+            "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/n/l/v/-original-imahcd9jggredwvf.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/computer/0/i/f/-original-imahcd9j6yx38zry.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/computer/u/p/g/-original-imahcd9jfkseqgdg.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/allinone-desktop/c/k/n/-original-imahcd99hb9jznvn.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/allinone-desktop/x/z/z/-original-imahcd99kjrrunhu.jpeg?q=70&crop=false"
+        ]
+    },
+    {
+        "name": "OnePlus Nord CE5 5G",
+        "title": "OnePlus Nord CE5 5G (Nexus Blue, 256 GB)  (8 GB RAM)",
+        "type": "mobile",
+        "brand": "OnePlus",
+        "model": "Nord CE5 5G",
+        "price": 26999,
+        "discount": 1,
+        "tags": [
+            "octa core",
+            "5G",
+            "Dual sim"
+        ],
+        "features": {
+            "storage": "256 GB",
+            "ram": "8 GB",
+            "camera": "50MP Rear",
+            "battery": "7100 mAh",
+            "display": "6.77 Full HD+ Display",
+            "processor": "Mediatek",
+            "os": "Oxygen OS (Android 15)"
+        },
+        "description": "Flagship-class Performance with MediaTek Dimensity 8350 Apex: Benchmark-breaking 1.47 million+ AnTuTu score and up to 12GB of LPDDR5X RAM deliver ultra-smooth multitasking and snappy app responsiveness. 7100mAh - OnePlus’s Biggest Battery Ever with Bypass Charging: Up to 2.5 days of everyday use on a single charge – more streaming, scrolling, and gaming without interruption. Say goodbye to battery anxiety. Just 10 minutes of charging gives you 6+ hours of YouTube. And Bypass Charging powers the phone directly to reduce battery stress and extend gaming sessions. Dominate BGMI and CODM at up to 120 FPS: Ultra-fluid, lag-free gaming with high touch response rates gives you that split-second edge in every battle. 50MP Sony Main Camera with OIS: Shoot stunning 4K 60 FPS videos for Reels or Shorts and vibrant stills with OnePlus's flagship RAW HDR algorithm. Vivid colors and natural skin tones mean every selfie and groufie looks crisp, clear and true to life. Dream Screen: 6.77” 120Hz AMOLED Display with Ultra HDR. Aqua Touch lets you confidently swipe even with wet or oily fingers. Enhance Photos with AI: Instantly turn good photos great and make your photo gallery Instagram-ready. With AI Best Face (fixes blinks/blurs), AI Eraser (removes photobombers), AI Detail Boost (for crisper shots), and more. Work Smarter with AI: Spend less time organizing and more time doing. With AI Mind Space (your searchable knowledge vault), AI Voice Scribe (instantly transcribes meetings/YouTube ), AI Call Assistant (translates/summarizes calls), and more.",
+        "images": [
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/k/b/v/nord-ce5-5g-cph2717-oneplus-original-imaheywzcgshhdbv.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/6/a/r/nord-ce5-5g-cph2717-oneplus-original-imaheywzc2qccszr.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/d/w/4/nord-ce5-5g-cph2717-oneplus-original-imaheywzdbh4nrjm.jpeg?q=70&crop=false",
+            "https://rukminim2.flixcart.com/image/128/128/xif0q/mobile/p/z/d/nord-ce5-5g-cph2717-oneplus-original-imaheywznmgwy8hj.jpeg?q=70&crop=false"
+        ]
     }
 ]

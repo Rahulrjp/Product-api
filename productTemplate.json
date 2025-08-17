@@ -1,0 +1,23 @@
+[
+    {
+        "name": "",
+        "title": "",
+        "type": "",
+        "brand": "",
+        "model": "",
+        "price": 0,
+        "discount": 0,
+        "tags": [],
+        "features": {
+            "storage": "",
+            "ram": "",
+            "camera": "",
+            "battery": "",
+            "display": "",
+            "processor": "",
+            "os": ""
+        },
+        "description": "",
+        "images": ["","","",""]
+    }
+]
