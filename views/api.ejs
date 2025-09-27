@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Products Api</title>
     <link rel="stylesheet" href="/css/api.css">
 </head>
 
@@ -33,6 +33,13 @@
                         <p>List of products of a specific brand</p>
                     </div>
                     <span onclick="window.location.href='/api/products?brand=samsung'"><%= host %>/api/products?brand=samsung</span>
+                </div>
+                <div class="list-items">
+                    <div>
+                        <h2>Product by Id</h2>
+                        <p>Get one product by it's id</p>
+                    </div>
+                    <span onclick="window.location.href='/api/products/6891e7442964f42c26a312e0'"><%= host %>/api/products/{id}</span>
                 </div>
             </div>
         </div>
